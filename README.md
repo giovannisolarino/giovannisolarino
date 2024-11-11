@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NiceGUI, Flet**
 
-- 📫 How to reach me **vanni.solarino@gmail.com**
+- 📫 How to reach me **giovanni.solarino@unito.it**
 
 
 <h3 align="left">Languages and Tools:</h3>
